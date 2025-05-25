@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minseo</h1>
 <h3 align="center">A passionate Computer Science Major @ UIC</h3>
 
-- 🔭 I’m currently working on [3 Hand Poker name](https://github.com/chisomogugu/3CardPoker-Server-and-Client-)
-
 - 🌱 I’m currently learning **React Native, different DataBases**
 
 - 📫 How to reach me **mschoo0624@gmail.com**
