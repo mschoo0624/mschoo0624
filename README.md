@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **mschoo0624@gmail.com**
 
-- ⚡ Fun fact **I am South Korean but, lived in India for 6 years.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
