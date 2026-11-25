@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minseo</h1>
 
-- 🌱 I’m currently learning **STEM32 & Embedded System**
+- 🌱 I’m currently learning **STM32 & Embedded System**
 
 - 📫 How to reach me **mschoo0624@gmail.com**
 
